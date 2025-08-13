@@ -4,9 +4,6 @@
   👋 ¡Hola! Soy Darkangel120
 </h1>
 
-
-<img align="left" height="169" src="https://avatars.githubusercontent.com/u/170339227?v=4"  />
-
 ###
 
 <div align="center">
