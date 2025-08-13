@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=130&section=header&text=Bienvenido%20a%20mi%20GitHub!&fontColor=fff&fontSize=40&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas%20%7C%20Apasionado%20por%20el%20Dise%C3%B1o&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=130&section=header&text=Bienvenido%20a%20mi%20GitHub!&fontColor=fff&fontSize=40&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas%20%7C%20Apasionado%20por%20el%20Dise%C3%B1o&descSize=18&descAlignY=100" />
 </p>
 
 
