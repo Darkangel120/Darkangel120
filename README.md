@@ -4,14 +4,6 @@
   👋 ¡Hola! Soy Darkangel120
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=130&section=header&text=Bienvenido%20a%20mi%20GitHub!&fontColor=fff&fontSize=40&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas%20%7C%20Apasionado%20por%20el%20Dise%C3%B1o&descSize=18&descAlignY=60" />
-</p>
-
-<br>
-<br>
-
----
 
 ## 🧑‍💻 Sobre mí
 
@@ -21,52 +13,48 @@
 
 ---
 
-## 🛠️ Habilidades
+<img align="left" height="169" src="https://avatars.githubusercontent.com/u/170339227?v=4"  />
+
+###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs,java&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=Darkangel120&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Darkangel120&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
+###
 
-## 📫 Contáctame
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darkangel120/Darkangel120/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darkangel120/Darkangel120/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Darkangel120/Darkangel120/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <a href="https://instagram.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-  </a>
-</p>
-
----
-
-## 💡 Frase que me inspira
-
-> "El futuro pertenece a quienes creen en la belleza de sus sueños y se atreven a crearlos con código y creatividad."
-
----
-
-## 📊 Estadísticas
+###
 
 <div align="center">
-
-![Darkangel120's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkangel120&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a2e)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkangel120&layout=compact&theme=dark&hide_border=true&bg_color=1a1a2e)
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
 </div>
 
----
-
-## 🏅 Insignias y recursos
+###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Darkangel120&theme=darkhub&margin-w=10&margin-h=10&no-bg=true" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0f3460&height=80&section=footer"/>
-</p>
-
-<!-- Personalízalo cambiando TU_USUARIO por tu usuario real de Instagram -->
+###
