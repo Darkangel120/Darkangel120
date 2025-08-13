@@ -4,6 +4,12 @@
   👋 ¡Hola! Soy Darkangel120
 </h1>
 
+## 🧑‍💻 Sobre mí
+
+- 🎓 Estudiante de **Ingeniería en Sistemas**
+- 🎨 Apasionado por el **diseño** y la tecnología
+- 🖥️ Buscando siempre aprender y crear proyectos útiles y visuales
+
 ###
 
 <div align="center">
@@ -16,7 +22,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darkangel120/Darkangel120/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darkangel120/Darkangel120/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Darkangel120/Darkangel120/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/Darkangel120/Darkangel120/output/snake.svg" alt="Snake animation" />
+
 </picture>
 
 
