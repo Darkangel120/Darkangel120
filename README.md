@@ -19,13 +19,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Darkangel120/Darkangel120/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🧑‍💻 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Sistemas**
-- 🎨 Apasionado por el **diseño** y la tecnología
-- 🖥️ Buscando siempre aprender y crear proyectos útiles y visuales
-
----
 ###
 
 <div align="center">
