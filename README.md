@@ -1,55 +1,56 @@
-<!-- Perfil de GitHub: Darkangel120 -->
+
+<!-- DARK MODE README - BILINGÜE / BILINGUAL -->
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkangel120&theme=github-dark&area=true&hide_border=true" width="100%" />
+</div>
 
 <h1 align="center" style="color:#fff;">
-  👋 ¡Hola! Soy Darkangel120
+  👋 ¡Hola! Soy Darkangel120 / Hi! I'm Darkangel120
 </h1>
+<h2 align="center" style="color:#fff;">Bienvenido a mi perfil de GitHub / Welcome to my GitHub profile</h2>
 
-## 🧑‍💻 Sobre mí
+<p align="center" style="color:#fff; font-size:1.2em;">
+  <b>"El único límite es el que tú mismo te pones." / "The only limit is the one you set yourself."</b><br>
+  <b>"Transforma tus sueños en código y tus ideas en realidad." / "Turn your dreams into code and your ideas into reality."</b>
+</p>
 
-- 🎓 Estudiante de **Ingeniería en Sistemas**
-- 🎨 Apasionado por el **diseño** y la tecnología
-- 🖥️ Buscando siempre aprender y crear proyectos útiles y visuales
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Darkangel120&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Darkangel120&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darkangel120/Darkangel120/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darkangel120/Darkangel120/output/pacman-contribution-graph.svg">
-</picture>
-
-
-###
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkangel120&show_icons=true&theme=github_dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkangel120&layout=compact&theme=github_dark&hide_border=true" height="180" />
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,java,cs,php,csharp&theme=dark" height="60" />
 </div>
 
-###
+---
+
+<div align="center">
+  <a href="https://www.instagram.com/dark_angel_1200?igsh=cXp0OHBudGtwdmdp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/oswaldo-g%C3%B3mez-5b6570383" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://darkangel120.github.io/Portafolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portafolio / Portfolio&logo=github&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3 style="color:#fff;">🧑‍💻 Sobre mí / About me</h3>
+  <ul style="color:#fff; font-size:1.1em;">
+    <li>🎓 Estudiante de <b>Ingeniería en Sistemas</b> / <b>Systems Engineering student</b></li>
+    <li>🎨 Apasionado por el <b>diseño</b> y la tecnología / <b>Passionate about design and technology</b></li>
+    <li>🖥️ Siempre aprendiendo y creando proyectos útiles y visuales / <b>Always learning and creating useful and visual projects</b></li>
+  </ul>
+</div>
+
+---
