@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,java,cs,php,csharp&theme=dark" height="60" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,js&theme=dark" height="60" />
 </div>
 
 ---
